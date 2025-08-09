@@ -1,0 +1,11 @@
+fastapi
+pydantic
+pandas
+numpy
+scipy
+ipykernel
+uvicorn
+requests
+google-genai
+dotenv
+httpx
